@@ -5,8 +5,6 @@
 
 A comprehensive collection of NumPy theoretical concepts and practical implementations designed for learning and interview preparation in scientific computing and data analysis.
 
-> **Ready to copy and paste directly into your README.md file!**
-
 ## 📋 Table of Contents
 
 - [Overview](#overview)
@@ -18,8 +16,6 @@ A comprehensive collection of NumPy theoretical concepts and practical implement
 - [Usage](#usage)
 - [Prerequisites](#prerequisites)
 - [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## 🎯 Overview
 
